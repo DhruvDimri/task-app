@@ -1,0 +1,21 @@
+
+.loginContainer{
+    background-color:  #F7F8F9;
+    height: 100vh;
+    width: fit-content;
+    margin: 0px auto;
+    padding: 25px;
+    border: 1px solid rgb(213, 199, 199);
+}
+.button4{
+    margin-top: 15px;
+    width: 335px;
+    height: 46px;
+    margin-bottom: 10px;
+    background-color: #CBCBCB;
+    border-radius: 6px;
+    border: none;
+    font-size: 17px;
+    font-weight: 600;
+    color: #FFFFFF;
+}

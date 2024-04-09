@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: #F7F8F9;
+}
+.settingContainer{
+    background-color: #F7F8F9 ;
+    height: 100vh;
+    width: fit-content;
+    margin: 0px auto;
+    display: flex;
+    border: 1px solid rgb(224, 215, 215);
+}
+img{
+    width: 100px;
+    height: 95px;
+    border-radius: 50%;
+    margin-right: 30px;
+    margin-left: 15px;
+    
+}
+.img{
+    display: flex;
+}
+.account{
+    margin-bottom: 25px;
+    background-color: white;
+    width: 400px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    opacity: 1;
+    border-bottom: 1px solid black;
+}
+.marryDoe1{
+    font-size: 17px;
+    font-weight: 500;
+}
+.about{
+    margin-top: 20px;
+    margin-left: 10px;
+}
